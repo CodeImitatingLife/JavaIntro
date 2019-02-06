@@ -4,7 +4,8 @@ class Tentative {
 
   public static void main(String[] args) {
   
-    System.out.println("This should be working!");
+    int x = 5;
+    System.out.println(5);
     
   }// end of main.
     
