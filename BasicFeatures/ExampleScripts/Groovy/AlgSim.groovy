@@ -1,3 +1,6 @@
+/**
+        Below are methods and an example of their use to perform a composition of activity (rather than simple ordinary method calls.
+*/
 int addition(int y){// declaration/definition
         return y+5;
     }
