@@ -1,0 +1,1 @@
+This folder contains scripts of Java compatible code run by the Groovy interpreter. Note: the scriots are written entirely in Java Syntax and are not meant to be a Groovy tutorial. Their purpose is to showcase Java programming features in a minimalist framework. Code in this folder SHOULD NOT contain code solely specific to the Groovy language. We are illustrating JAVA ONLY!
